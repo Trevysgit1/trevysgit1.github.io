@@ -7,6 +7,7 @@ date: 2024
 published: true
 labels:
   - Visual Studio
+  - C
 summary: "Simple game of Connect Four that I made for an assignment"
 ---
 
