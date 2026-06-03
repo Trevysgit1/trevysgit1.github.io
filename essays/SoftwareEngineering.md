@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/softwareeng.png">
 
 ## Introduction
 Software Engineering has been around for many years and continues to grow and the demand for software will only grow as time goes on. As more companies that are "old school" and don't have much presence through a website, advertisements, or security realize that they have to innovate to keep up with competition that is taking advantage of new tools, software engineering will also benefit. The importance to know how to build, design, and mainting software is a very important tool because the applications for this are everywhere. 
