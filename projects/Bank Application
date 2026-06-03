@@ -2,12 +2,11 @@
 layout: project
 type: project
 image: img/bank-8469480_1280.png
-title: "Connect Four"
-date: 2024
+title: "Bank Application"
+date: 2025
 published: true
 labels:
-  - Visual Studio
-  - C
+  - C/C++
 summary: "Simulation of a bank application for an ICS 212 assignment"
 ---
 
