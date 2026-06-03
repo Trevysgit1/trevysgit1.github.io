@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: img/bank-8469480_1280.png
+title: "Connect Four"
+date: 2024
+published: true
+labels:
+  - Visual Studio
+  - C
+summary: "Simulation of a bank application for an ICS 212 assignment"
+---
+
+<img class="img/bank-8469480_1280.png">
+
+I made this bank application with features to add, print, find, and delete a record. I used a linked list to store each record because there was a feature to delete records so I had to use a data structure that allowed me to easily delete and add records. To find records each record had an account number so the list was traversed until a matching account number was found. The list was saved each time the program ran and exited to a file.txt with all the details of each record and was read and wrote to each time the program starts and ends.
+<div class="text-center">
+  <img class="img-fluid" src="../img/Screenshot 2026-06-02 201233.png" alt="Bank Screenshot">
+</div>
+
+This assignment tought me how to create something that could actually be used in real life. Most of the other project that I made were games and didn't have much practical use, this project is similar to things that I can use everyday like making a calendar or a to do list.
