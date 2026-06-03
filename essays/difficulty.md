@@ -1,54 +1,28 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Software Engineering in the Future"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2026/06/02
 published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Introduction
+Software Engineering has been around for many years and continues to grow and the demand for software will only grow as time goes on. As more companies that are "old school" and don't have much presence through a website, advertisements, or security realize that they have to innovate to keep up with competition that is taking advantage of new tools, software engineering will also benefit. The importance to know how to build, design, and mainting software is a very important tool because the applications for this are everywhere. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Importance
+Software Engineering isn't only writing code, you are designing what you want your product to look like, looking at the goals that need to be met, and breaking down the problem that is ahead. Almost every part of a college students day required someone to design and develop a software that makes their day more productive and automates repetitive tasks that are very time costly to complete. For example, when you wake up and drive to school you may look at google maps to look at the traffic and what the quickest route is to get to your destination, when you get to school you use software like Lamaku to look at your assignements that you need to complete and what the course material is. Then when you are going home if you want to get something to eat you may go to a resturant where they have an automated system to queue the orders for the customers. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+As pointed out in the introduction these different part of a persons day that involved software didn't exist at a point in time. Currently we have Lamaku and online learning systems but a decade or two ago those didn't exist, then a decade before that google maps didn't exist to help people get through traffic, and before that cash registers didn't exist to make an automated process for customers getting their food. This shows how much our lives are affected everyday by software that didn't exist not that long ago, so how will our lives change even more in the future? This shows the importance of software engineering and how the demand will only increase because the amount of products and consumers for each product will also only increase.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## My Goal
+Although myself or the average person may not invent a new tool that millions of people will use I believe that it is still very important to study and learn how to make your own applications. One of the main things that cause people to use these products is to make their lives easier, even if you don't invent a product that millions use you can still invent a product that makes your life easier. 
 
-Here's what I think: the difficult things will always be difficult.
+My goal with software engineering is to have the ability to create an application or something that will make my life easier or if I just wanted to create a simple game that is very unique. I believe that this goal is achievable because I have tools in this class to help get started in with learning the basics and creating some projects that I can start using everyday
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## Conclusion
+The importance of software engineering is significant and will only continue to grow in the future. Just because a person doesn't believe they can build a product like google maps or a learning management site doesn't mean they can't build a simple product that can make their life more convinient. Learning the basics of software engineering is very important even if you are only building a project that you will only ever see, because the usage of software that people use everyday is already significant and will only continue to grow.
