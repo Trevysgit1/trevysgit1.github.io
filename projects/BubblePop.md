@@ -12,7 +12,7 @@ labels:
 summary: "Game of Bubble Pop like the mobile game"
 ---
 
-<img class="rounded" style="width: 300px; height: 300px; object-fit: cover;" src="../img/Screenshot 2026-06-02 201123.png" alt="Bubble Pop">
+<img class="rounded" style="width: 300px; height: 300px; object-fit: cover; display: block; margin: 0 auto 20px;" src="../img/Screenshot 2026-06-02 201123.png" alt="Bubble Pop">
 
 This was the first time I worked with graphics and didn't have a program that only ran in the terminal. If there are 3 or more bubbles of the same color touching each other and are hit by the same projectile, they all pop and disappear from the screen.
 
