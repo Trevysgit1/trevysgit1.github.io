@@ -34,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,15 +42,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa, Information Technology Services",
+      "position": "Lab Monitor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025/09/01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Monitor students using computer lab",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answer technical questions from users",
+        "Ensure all lab computers are up to date and working",
+        "Clean lab area, devices, and monitors"
       ]
     }
   ],
