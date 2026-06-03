@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Connect4.jpg
+image: img/connectfour.png
 title: "Connect Four"
 date: 2024
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Simple game of Connect Four that I made for an assignment"
 ---
 
-<img class="img-fluid" src="..img/Connect4.jpg">
+<img class="img/connectfour.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
