@@ -10,7 +10,7 @@ labels:
 summary: "Simulation of a bank application for an ICS 212 assignment"
 ---
 
-<img class="img/bank-8469480_1280.png">
+<img class="rounded" style="width: 300px; height: 300px; object-fit: cover;" src="../img/bank-8469480_1280.png" alt="Bank Application">
 
 I made this bank application with features to add, print, find, and delete a record. I used a linked list to store each record because there was a feature to delete records so I had to use a data [...]
 <div class="text-center">
