@@ -17,7 +17,9 @@ labels:
   I feel like I had experience asking smart questions and I didn't realize it at first. One example that I can think of is when I have a question for my teacher I would look it up first and check if I could find the answer on my own. If I couldn't find an already existing solution I would consult a classmate or a friend to see if they have the answer and are able to explain it to me. The final step would be to bring the question to my teacher with the work I have already done and the exact problem that I'm facing so they can best help me. This is the process that Eric Raymond describes to ask a smart question and it made me realize that smart questions apply to anything not just getting help with a programming solution. 
 
 ## Finding a Good Smart Question
-Software Engineering isn't only writing code, you are designing what you want your product to look like, looking at the goals that need to be met, and breaking down the problem that is ahead. Almost e[...]
+````
+console.log("Hello World")
+````
 
 <img width="200px" class="rounded float-start pe-4" src="../img/maps.png">
 
