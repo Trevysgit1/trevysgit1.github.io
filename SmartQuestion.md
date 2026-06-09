@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softwareeng.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Question.jpg">
 
 ## What is a Smart Question?
   The importance for asking smart questions comes down to getting assistance from knowledgeable people. One of the first guidelines is to search the internet, you should try looking up the question that you have on the internet to check if a solution already exists before asking people to take time to assist you. If you are unable to find a solution that already exists the next step is to formulate the question clearly. This includes a goal, steps that were already taken, a problem if it exists, and other context like the programming language, problem conditions and assumptions, or operating system, and the most important would be to ask the question in the right place. The importance of asking smart question is for the benefit of the person who is asking and answering the question. If you are asking a question and it is not clear what you are asking you may not find an answer that applies to your question because you constructed the question improperly or no one is able to answer your question becuase you are not asking it in the right place. If someone is answering the question, smart questions are important because your time may be wasted by someone being able to easily look up a question that already has a solution that exists, or if it is missing details like steps that have already been taking or the goal is unclear may not benefit either person. 
