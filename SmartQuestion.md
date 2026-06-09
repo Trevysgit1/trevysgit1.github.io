@@ -16,12 +16,35 @@ labels:
 
   I feel like I had experience asking smart questions and I didn't realize it at first. One example that I can think of is when I have a question for my teacher I would look it up first and check if I could find the answer on my own. If I couldn't find an already existing solution I would consult a classmate or a friend to see if they have the answer and are able to explain it to me. The final step would be to bring the question to my teacher with the work I have already done and the exact problem that I'm facing so they can best help me. This is the process that Eric Raymond describes to ask a smart question and it made me realize that smart questions apply to anything not just getting help with a programming solution. 
 
-## Finding a Good Smart Question
-````
-console.log("Hello World")
-````
+<img width="200px" class="rounded float-start pe-4" src="../img/StackOverflow.jpg">
 
-<img width="200px" class="rounded float-start pe-4" src="../img/maps.png">
+## Finding a Good Smart Question
+On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string. One question that I found that was related and followed all of the requirements was asking how to differentiate capital letters from lowercase letters when checking for uniqueness. The example that is provided was string = "dhAra" and he would like it to return "NOT UNIQUE" but "UNIQUE" is being returned. This is the snippet of code that he provided to show the progress he currently has.
+````
+#include<iostream>
+
+int main()
+{
+string str = "dhAra";
+bool arr[128] = {0};
+
+for (unsigned int i = 0; i < str.length() ; i++)
+{
+ int val = str[i];  //i think something needs to change here 
+ cout << val << endl; 
+
+ if(arr[val])
+ { 
+  cout << " not unique" ; 
+  return 0; 
+ }
+ else
+ { arr[val] = 1;} 
+}
+cout << "unique" ; 
+return 0 ; 
+}
+````
 
 As pointed out in the introduction these different part of a persons day that involved software didn't exist at a point in time. Currently we have Lamaku and online learning systems but a decade or tw[...]
 
