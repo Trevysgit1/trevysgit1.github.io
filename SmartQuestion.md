@@ -19,7 +19,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/StackOverflow.jpg">
 
 ## Finding a Good Smart Question
-On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string.[This is the post for the question](https://stackoverflow.com/questions/15623573/check-if-string-has-unique-characters) I picked this question because it followed all of the requirements and the question was asking how to differentiate capital letters from lowercase letters when checking for uniqueness. The example that is provided was string = "dhAra" and he would like it to return "NOT UNIQUE" but "UNIQUE" is being returned. This is the snippet of code that he provided to show the progress he currently has.
+On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string.[This is the post for the question](https://stackoverflow.com/questions/15623573/check-if-string-has-unique-characters), I picked this question because it followed all of the requirements and the question was asking how to differentiate capital letters from lowercase letters when checking for uniqueness. The example that is provided was string = "dhAra" and he would like it to return "NOT UNIQUE" but "UNIQUE" is being returned. This is the snippet of code that he provided to show the progress he currently has.
 ````
 #include<iostream>
 
@@ -45,13 +45,11 @@ cout << "unique" ;
 return 0 ; 
 }
 ````
+The solution to this question would be to convert all of the characters in the string to uppercase or lowercase. The top answer suggests that you can do this by by using either ```` toupper(str[i]) ```` or ```` tolower(str[i]) ```` This is a good example of following the guidelines of a smart question to get an answer that helps you best. 
 
-As pointed out in the introduction these different part of a persons day that involved software didn't exist at a point in time. Currently we have Lamaku and online learning systems but a decade or tw[...]
 
-## My Goal
-Although myself or the average person may not invent a new tool that millions of people will use I believe that it is still very important to study and learn how to make your own applications. One of [...]
-
-My goal with software engineering is to have the ability to create an application or something that will make my life easier or if I just wanted to create a simple game that is very unique. I believe [...]
+## Finding a Bad Question
+This is the example I found for finding a (question)[https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files] asked in a "not smart way". The question was "Why are #ifndef and #define used in C++ header files". This breaks on of the first principles established by Raymond of attempting to look up the answer on the internet. When I looked up the question on the internet I was able to find many sources answering the question that that explains what guard code is. Although, the post was able to get an answer explaining what guard code is and how it works, it can save time for the responders if the poster is able to find the answer themself by looking it up.
 
 ## Conclusion
-The importance of software engineering is significant and will only continue to grow in the future. Just because a person doesn't believe they can build a product like google maps or a learning manage[...]
+When looking for examples on Stack Overflow I found that the more detail the poster was able to include about their question and the more descriptive they were with their goal, it led to more and better answers and also more views and upvotes indicating a lot of people benefitted from the post. I feel like it is important to ask smart questions because you are asking people with more knowledge and experience to take time and effort to explain the problem to you. So the more you can help them and make it easier to help you the more help you would recieve and everybody will benefit more from questions that are asked properly with detail than not. 
