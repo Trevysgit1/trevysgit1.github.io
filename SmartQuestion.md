@@ -19,7 +19,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/StackOverflow.jpg">
 
 ## Finding a Good Smart Question
-On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string. One question that I found that was related and followed all of the requirements was asking how to differentiate capital letters from lowercase letters when checking for uniqueness. The example that is provided was string = "dhAra" and he would like it to return "NOT UNIQUE" but "UNIQUE" is being returned. This is the snippet of code that he provided to show the progress he currently has.
+On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string.[This is the post for the question](https://stackoverflow.com/questions/15623573/check-if-string-has-unique-characters) I picked this question because it followed all of the requirements and the question was asking how to differentiate capital letters from lowercase letters when checking for uniqueness. The example that is provided was string = "dhAra" and he would like it to return "NOT UNIQUE" but "UNIQUE" is being returned. This is the snippet of code that he provided to show the progress he currently has.
 ````
 #include<iostream>
 
