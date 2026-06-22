@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What is the Point of Coding Standards"
+title: "What is the Point of Coding Standards?"
 # All dates must be YYYY-MM-DD format!
 date: 2026/06/21
 published: true
@@ -14,20 +14,23 @@ labels:
 
 ## What are Coding Standards?
   Coding standards improve the readability of code and allow increase the chances of code being more useful in the future. For example, you may make variables that have nothing to do with the elemnt it's holding and in the future, it's hard to improve the code because you have to look at everything that it's connected to instead of writing a comment that describe what it does. Writing comments is one example of good practice of coding standards, it not only helps yourself but also allows for other people to understand the purpose of each line. One line of code can have many different purposes or use cases and just writing a label of what the code is used for and what it affects can help you or someone else look back in the future and understand what it does without investigating every connection it has to find the purpose. 
+  
     Another example of a coding standard is to make code more "readable". This is similar to adding comments to code because the purpose of both is to make future revisions or reviews of the code easier for the programmer, if they can easily tell what is going on they can start working on the problem quicker. Improving the readability of code also goes hand in hand with making the code more simple, for the most part less lines of code leads to easier readability. If you are able to solve the same problem or complete the goal of the code in less lines this should be a priority because adding unecessary elements decreases the readability because there are more elements they programmers have to process. Inconsistent indents between the same types of code can be an example of bad readability like having 4 spaces instead of 2 spaces at the next line of a loop or having inconsistent spaces between assignments like both sides of the equal sign not having the same spacing.
+    
     This is a simple example of bad code readability,
     ````
-    for(i= 5;i<n; i++) 
+    for(i= 0;i<5; i++) 
     {
     print i; }
 
     ````
     This is an example of good code readability
-    for(i = 5; i < n; i++)
+    ````
+    for(i = 0: i < 5; i++) //loop will run 5 times until i = 5
     {
-    print i;
+    print i;               //printing out value of i
     }
-    
+    ````
 
   I feel like I had experience asking smart questions and I didn't realize it at first. One example that I can think of is when I have a question for my teacher I would look it up first and check [...]
 
