@@ -35,35 +35,8 @@ print i;               //printing out value of i
 }
 ````
 
-## 
-On stack overflow, I chose to lookup the problem that we recently had for identifying unique characters in a string.[This is the post for the question](https://stackoverflow.com/questions/15623573[...]
-````
-#include<iostream>
-
-int main()
-{
-string str = "dhAra";
-bool arr[128] = {0};
-
-for (unsigned int i = 0; i < str.length() ; i++)
-{
- int val = str[i];  //i think something needs to change here 
- cout << val << endl; 
-
- if(arr[val])
- { 
-  cout << " not unique" ; 
-  return 0; 
- }
- else
- { arr[val] = 1;} 
-}
-cout << "unique" ; 
-return 0 ; 
-}
-````
-The solution to this question would be to convert all of the characters in the string to uppercase or lowercase. The top answer suggests that you can do this by by using either ```` toupper(str[i][...]
-
+## What does ESLint do?
+The purpose of ESLint is to condition programmers into having better readability for their code.
 
 ## Finding a Bad Question
 This is the example I found for finding a [question](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files) asked in a "not smart way". The question was "Why[...]
