@@ -20,20 +20,20 @@ labels:
     
     This is a simple example of bad code readability,
     
-    ```
+    ````
     for(i= 0;i<5; i++) 
     {
     print i; }
-    ```
+    ````
         
     This is an example of good code readability
 
-    ```
+    ````
     for(i = 0: i < 5; i++) //loop will run 5 times until i = 5
     {
     print i;               //printing out value of i
     }
-    ```
+    ````
 
   I feel like I had experience asking smart questions and I didn't realize it at first. One example that I can think of is when I have a question for my teacher I would look it up first and check [...]
 
