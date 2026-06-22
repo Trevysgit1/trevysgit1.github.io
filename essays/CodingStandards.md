@@ -18,19 +18,20 @@ labels:
     Another example of a coding standard is to make code more "readable". This is similar to adding comments to code because the purpose of both is to make future revisions or reviews of the code easier for the programmer, if they can easily tell what is going on they can start working on the problem quicker. Improving the readability of code also goes hand in hand with making the code more simple, for the most part less lines of code leads to easier readability. If you are able to solve the same problem or complete the goal of the code in less lines this should be a priority because adding unecessary elements decreases the readability because there are more elements they programmers have to process. Inconsistent indents between the same types of code can be an example of bad readability like having 4 spaces instead of 2 spaces at the next line of a loop or having inconsistent spaces between assignments like both sides of the equal sign not having the same spacing.
     
     This is a simple example of bad code readability,
-    
+    ```
     for(i= 0;i<5; i++) 
     {
     print i; }
-
-    
+    ```
+        
     This is an example of good code readability
-    
+
+    ```
     for(i = 0: i < 5; i++) //loop will run 5 times until i = 5
     {
     print i;               //printing out value of i
     }
-    
+    ```
 
   I feel like I had experience asking smart questions and I didn't realize it at first. One example that I can think of is when I have a question for my teacher I would look it up first and check [...]
 
