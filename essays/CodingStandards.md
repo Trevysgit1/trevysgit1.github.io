@@ -35,8 +35,8 @@ print i;               //printing out value of i
 }
 ````
 
-## What does ESLint do?
-The purpose of ESLint is to condition programmers into having better readability for their code.
+## What is the Purpose of ESLint?
+The purpose of ESLint is to condition programmers into having better readability for their code. ESLint automatically detects problems in typescript or javascript, this includes syntax errors, variables usage, and code formatting isses. This is the first time I have used a tool that matters how I formatted code because it would be possible to write an entire program on one line as long as you used semicolons and braces to seperate the blocks. But when I used ESLint I had to format my code such that I followed all of the "rules" which includes indentation errors, spacing between elements, proper new line spacing, and more. Having proper code format is important
 
 ## Finding a Bad Question
 This is the example I found for finding a [question](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files) asked in a "not smart way". The question was "Why[...]
