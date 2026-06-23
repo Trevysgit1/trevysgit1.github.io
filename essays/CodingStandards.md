@@ -36,6 +36,8 @@ print i;               //printing out value of i
 ````
 
 ## What is the Purpose of ESLint?
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.webp">
+
 The purpose of ESLint is to condition programmers into having better readability for their code. ESLint automatically detects problems in typescript or javascript, this includes syntax errors, variables usage, and code formatting isses. This is the first time I have used a tool that matters how I formatted code because it would be possible to write an entire program on one line as long as you used semicolons and braces to seperate the blocks. But when I used ESLint I had to format my code such that I followed all of the "rules" which includes indentation errors, spacing between elements, proper new line spacing, and more. Having proper code format is important because it improves readability for everyone that looks ar the code.
 
 ## Coding Standard Uses
@@ -44,8 +46,3 @@ I agree that following code standards can help you learn programming languages l
 ## ESLint Experiences
 After using ESLint there are both pros and cons to this tool. One con that I have been experiencing was receiving many errors because I don't format my code correctly when I am writing it. This is also a pro because I get less errors the more I format the code the right way. ESLint helps me improve my code formatting and readability which are very important when I'm debugging and fixing non ESLint errors. Removing all of the ESLint errors doesn't take as much time as it looks like for the amount of errors, an example that I can think of was the Bad Typescript assignment when the majority of the errors were able to be removed automatically by using the fix all.
 
-## Finding a Bad Question
-This is the example I found for finding a [question](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files) asked in a "not smart way". The question was "Why[...]
-
-## Conclusion
-When looking for examples on Stack Overflow I found that the more detail the poster was able to include about their question and the more descriptive they were with their goal, it led to more and [...]
