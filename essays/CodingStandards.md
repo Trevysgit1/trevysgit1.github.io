@@ -36,7 +36,13 @@ print i;               //printing out value of i
 ````
 
 ## What is the Purpose of ESLint?
-The purpose of ESLint is to condition programmers into having better readability for their code. ESLint automatically detects problems in typescript or javascript, this includes syntax errors, variables usage, and code formatting isses. This is the first time I have used a tool that matters how I formatted code because it would be possible to write an entire program on one line as long as you used semicolons and braces to seperate the blocks. But when I used ESLint I had to format my code such that I followed all of the "rules" which includes indentation errors, spacing between elements, proper new line spacing, and more. Having proper code format is important
+The purpose of ESLint is to condition programmers into having better readability for their code. ESLint automatically detects problems in typescript or javascript, this includes syntax errors, variables usage, and code formatting isses. This is the first time I have used a tool that matters how I formatted code because it would be possible to write an entire program on one line as long as you used semicolons and braces to seperate the blocks. But when I used ESLint I had to format my code such that I followed all of the "rules" which includes indentation errors, spacing between elements, proper new line spacing, and more. Having proper code format is important because it improves readability for everyone that looks ar the code.
+
+## Coding Standard Uses
+I agree that following code standards can help you learn programming languages like Javascript and Typescript. One example of a coding standard that I followed with ESLint was having proper spacing between elements and variables. This was useful to me because when I was fixing and reviewing the code after I had written it I was able to easily read the code because it was formatted in an easy to read format. Another coding standard that I follow is naming variables to relevant names. For example, instead of naming something num I would name it price amount for the jamba juice assignment that lets me know where the num comes from when I am modifying or printing in the future.
+
+## ESLint Experiences
+After using ESLint there are both pros and cons to this tool. One con that I have been experiencing was receiving many errors because I don't format my code correctly when I am writing it. This is also a pro because I get less errors the more I format the code the right way. ESLint helps me improve my code formatting and readability which are very important when I'm debugging and fixing non ESLint errors. 
 
 ## Finding a Bad Question
 This is the example I found for finding a [question](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files) asked in a "not smart way". The question was "Why[...]
