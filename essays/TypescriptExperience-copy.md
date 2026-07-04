@@ -19,7 +19,8 @@ Using bootstrap has been very useful rather than using raw HTML and CSS. For eve
 
 If I was unable to use bootstrap I would have to right every class that I use in bootstrap myself, which can add up over time. One downside of using bootstrap is if I'm not allowed to use bootstrap in the future and if it's a requirement to utilize raw HTML and CSS. Using bootstrap makes the use of mainly CSS easier because it minimizes the use of CSS by implementing premade classes I haven't had much experience with CSS and after starting with bootstrap I don't use CSS as much and although. Another disadvantage of using bootstrap is the decrease in control that you have over customization, design, and formatting. Using premade classes can restrict you because there are fixed choices that are already made because someone developed the class in a certain way.
 
-<img width="200px" class="rounded float-start pe-4" src="..img/Screenshot 2026-07-01 192330.png>
+<img width="200px" class="rounded float-start pe-4" src="../img/Screenshot 2026-07-01 192330.png">
+
 ## Typescript expectations
 I didn't have any prior experience using typescript but learning the basics of javascript in the earlier assignment was also useful for learning typescript because you can just use javascript in types[...]
 
