@@ -6,7 +6,6 @@ title: "Final Project Proposal"
 date: 2026/07/19
 published: true
 labels:
-  - ICS 314
   - Final Project Proposal
 ---
 
