@@ -1,48 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "What is the Point of Coding Standards?"
+title: "Final Project Proposal"
 # All dates must be YYYY-MM-DD format!
-date: 2026/06/21
+date: 2026/07/19
 published: true
 labels:
-  - VS Code
-  - ESLint
+  - ICS 314
+  - Final Project Proposal
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Question.jpg">
+Flashcard App
 
-## What are Coding Standards?
-  Coding standards improve the readability of code and allow increase the chances of code being more useful in the future. For example, you may make variables that have nothing to do with the elemnt i[...]
-  
-  Another example of a coding standard is to make code more "readable". This is similar to adding comments to code because the purpose of both is to make future revisions or reviews of the code easier[...]
+## Problem
+Most people today take notes in digital form instead of pen and paper. This allows limited options to study the material you have written down. Most of the options that I have seen before regarding online flashcard apps require paid subscriptions to unlock the unlimited versions and features. 
     
-    
-This is a simple example of bad code readability,
-    
-````
-for(i= 0;i<5; i++) 
-{
-print i; }
-````
-        
-This is an example of good code readability
+## Solution
+This flashcard app will allow students to turn their notes into flashcards that they can use as much as they want, and make as much flashcards as needed. They will also be able to search for flashcard decks that people have made so you don't have to make your own from scratch.
 
-````
-for(i = 0: i < 5; i++) //loop will run 5 times until i = 5
-{
-print i;               //printing out value of i
-}
-````
+## Mockup Page Ideas
+- Home Page, Shows the flashcard decks that you have made
+- Search Bar, Look for other decks that people have made
+- Profile Page, Amount of hours you have spent, Amount of flashcards you have made, Interests/What kind of decks you've made
 
-## What is the Purpose of ESLint?
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint.webp">
-
-The purpose of ESLint is to condition programmers into having better readability for their code. ESLint automatically detects problems in typescript or javascript, this includes syntax errors, variabl[...]
-
-## Coding Standard Uses
-I agree that following code standards can help you learn programming languages like Javascript and Typescript. One example of a coding standard that I followed with ESLint was having proper spacing be[...]
-
-## ESLint Experiences
-After using ESLint there are both pros and cons to this tool. One con that I have been experiencing was receiving many errors because I don't format my code correctly when I am writing it. This is als[...]
-
+## Use Cases
+- Students in the same class or past classes can share flashcard decks they have made for that class
+- Make your own flashcards with your notes
+- Search for people by similar interests so you can easily find decks you are interested in
