@@ -13,10 +13,10 @@ labels:
 Flashcard App
 
 ## Problem
-Most people today take notes in digital form instead of pen and paper. This allows limited options to study the material you have written down. Most of the options that I have seen before regarding on[...]
+Most people today take notes in digital form instead of pen and paper. This allows limited options to study the material you have written down. Most of the options that I have seen before regarding online flashcard apps require paid subscriptions to unlock the unlimited versions and features.
     
 ## Solution
-This flashcard app will allow students to turn their notes into flashcards that they can use as much as they want, and make as much flashcards as needed. They will also be able to search for flashcard[...]
+This flashcard app will allow students to turn their notes into flashcards that they can use as much as they want, and make as much flashcards as needed. They will also be able to search for flashcard decks that people have made so you don't have to make your own from scratch.
 
 ## Mockup Page Ideas
 - Home Page, Shows the flashcard decks that you have made
