@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank-8469480_1280.png
+image: img/magnifyingglass.jpg
 title: "Bank Application"
 date: 2026
 published: true
