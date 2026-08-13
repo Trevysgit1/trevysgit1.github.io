@@ -22,3 +22,11 @@ Creating this project I learned how to use github to work as a team rather than 
 
 ### Club Compass App
 [View Club Compass App](https://manoa-club-compass-nextjs.vercel.app/)
+
+## Club Compass Pages
+### [Landing Page](img/landing-page.png)
+### [Browse Clubs Page](img/browse-clubs.png)
+### [Club Details Page](img/club-details.png)
+### [Club Admin Page](img/club-admin.png)
+### [Super Admin Page](img/admin-dashboard.png)
+
