@@ -25,13 +25,18 @@ Creating this project I learned how to use github to work as a team rather than 
 
 ## Club Compass Pages
 ### Landing Page
-![Landing Page](../img/landing-page.png)
+<img src="../img/landing-page.png" alt="Landing Page" width="50%">
+
 ### Browse Clubs Page
-![Browse Clubs Page](../img/browse-clubs.png)
+<img src="../img/browse-clubs.png" alt="Browse Clubs Page" width="50%">
+
 ### Club Details Page
-![Club Details Page](../img/club-details.png)
+<img src="../img/club-details.png" alt="Club Details Page" width="50%">
+
 ### Club Admin Page
-![Club Admin Page](../img/club-admin.png)
+<img src="../img/club-admin.png" alt="Club Admin Page" width="50%">
+
 ### Super Admin Page
-![Super Admin Page](../img/admin-dashboard.png)
+<img src="../img/admin-dashboard.png" alt="Super Admin Page" width="50%">
+
 
