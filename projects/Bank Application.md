@@ -18,4 +18,4 @@ I made this bank application with features to add, print, find, and delete a rec
   <img class="img-fluid" src="../img/Screenshot 2026-06-02 201233.png" alt="Bank Screenshot">
 </div>
 
-This assignment tought me how to create something that could actually be used in real life. Most of the other project that I made were games and didn't have much practical use, this project is similar to how actual banking software works internally.
+This assignment taught me how to create something that could actually be used in real life. Most of the other project that I made were games and didn't have much practical use, this project is similar to how actual banking software works internally.
